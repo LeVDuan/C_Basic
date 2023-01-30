@@ -246,5 +246,3 @@ elementType findMin(treeType root){
   }
   return root->element;
 }
-
-
